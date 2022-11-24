@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Tools" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="232.44px" height="62.36px" viewBox="0 0 232.44 62.36" enable-background="new 0 0 232.44 62.36" xml:space="preserve">
+<g id="Dihedral_angle_guage">
+	<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="104.635,58.031 4.424,40.73 
+		4.424,4.331 119.055,4.331 	"/>
+	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="119.055" y1="4.331" x2="119.055" y2="20.156"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="119.055" y1="35.436" x2="119.055" y2="53.119"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M133.476,58.031
+		c0-2.713-6.456-4.912-14.421-4.912c-7.963,0-14.42,2.199-14.42,4.912"/>
+	<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="133.476,58.031 233.687,40.73 
+		233.687,4.331 119.055,4.331 	"/>
+	<text transform="matrix(1 0 0 1 78.3076 29.7788)" font-family="'ArialMT'" font-size="8.7312">Dihedral angle gauge</text>
+</g>
+</svg>
