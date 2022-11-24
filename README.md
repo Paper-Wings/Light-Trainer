@@ -5,9 +5,24 @@ Laminated Paper Airplane of a Cessna style Light Training aircraft
 
 Inspired by WhiteWings Plane 301 - Flycatcher
 
-### Items Needed
-* Paper -- 200-300 gsm paper (110 lb cover/cardstock, 120 lb index, 80 lb cover/cardstock, 110 lb index, etc)
-* Fast Drying Craft Glue (Bostik Clear-bond, Duco Cement, Tacky Glue, etc)
+### Tools
+* **Scissors:** A pair of scissors that cuts well
+* **Ruler:** To fold straight lines
+* (optional) **Cutter (X-Acto Knife):** Cut sharp corners easier than with scissors
+* (optional) **Tweezers:** Used to check Center of Gravity (CG) and assembly of smaller pieces
+
+### Materials
+* **Paper:** 200-300 gsm paper
+  * 110 lb cover/cardstock (300 gsm)
+  * 120 lb index or 80 lb cover/cardstock (216 gsm)
+  * 110 lb index (199 gsm)
+* **Glue:** Clear fast drying
+  * Duco Cement
+  * Bostik Clear-bond
+  * Tacky Glue
+  * Seal-All
+* (optional) **Rubber Band and Rod:** To make a rubberband catapult.  About 12 inches of rubber bands tied together and attached to a pencil works well.
+* (optional) **Paperclips:** Used to balance the plane if needed
 
 ## Assembly Insructions
 * Place Parts and Tools on paper and print
