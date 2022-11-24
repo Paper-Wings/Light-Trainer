@@ -21,16 +21,21 @@ Inspired by WhiteWings Plane 301 - Flycatcher
 * **Glue:** Clear fast drying
   * Duco Cement
   * Bostik Clear-bond
+  * 527 Multi-Use Glue
   * Tacky Glue
   * Seal-All
 * (optional) **Rubber Band and Rod:** To make a rubberband catapult.  About 12 inches of rubber bands tied together and attached to a pencil works well.
 * (optional) **Paperclips:** Used to balance the plane if needed
 
-### Cutting Out Parts
+### Printing
+Either:
+* Download the Release file ([Latest Release](https://github.com/tlesicka/light-trainer/releases/latest)) in the paper size you need OR
+* Place Parts and Tools using vector art program (Inkscape, Illustrator, CorelDRAW, etc)
+  * If a larger or smaller model is wanted, scale all parts and tools equally
 
-* Place Parts and Tools on paper and print
-* Cut out parts
-* Fold on dashed lines
+### Cutting Out Parts
+Rought cut each piece, then trim each piece on the line.  Do not cut the main wing backing to size. 
+Fold on dashed lines
 
 ### Assembly and Gluing
 * Glue fuselage parts (final order 7-5-3-1-2-4-6)
