@@ -5,6 +5,8 @@ Laminated Paper Airplane of a Cessna style Light Training aircraft
 
 Inspired by WhiteWings Plane 301 - Flycatcher
 
+## Assembly Insructions
+
 ### Tools
 * **Scissors:** A pair of scissors that cuts well
 * **Ruler:** To fold straight lines
@@ -24,15 +26,24 @@ Inspired by WhiteWings Plane 301 - Flycatcher
 * (optional) **Rubber Band and Rod:** To make a rubberband catapult.  About 12 inches of rubber bands tied together and attached to a pencil works well.
 * (optional) **Paperclips:** Used to balance the plane if needed
 
-## Assembly Insructions
+### Cutting Out Parts
+
 * Place Parts and Tools on paper and print
 * Cut out parts
 * Fold on dashed lines
+
+### Assembly and Gluing
 * Glue fuselage parts (final order 7-5-3-1-2-4-6)
 * Glue main wing parts (8 & 9), aligning arrows
 * Glue horizontal stab (10) to fuselage assembly
 * Bend main wing to correct dihedral (using angle gauge)
 * Glue wing assembly to fuselage assembly
+
+### Finishing Touches
+* Todo
+
+## Test Flying and Adjusting
+* Todo
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].  [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
