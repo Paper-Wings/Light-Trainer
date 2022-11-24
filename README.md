@@ -1,4 +1,4 @@
-# Lite-Trainer
+# Light-Trainer
 [![License: CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Laminated Paper Airplane of a Cessna style Light Training aircraft
